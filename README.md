@@ -19,6 +19,9 @@ El resultado final del partido se mostrará al finalizar los 90 minutos de simul
 
 El código fuente se encuentra en `GameSimulation.py`.   Para ejecutar la aplicación, se necesita un entorno Docker.  La configuración de Docker se encuentra en el archivo `Dockerfile`.   Una vez configurado el entorno, ejecutar el contenedor Docker para iniciar la simulación. 
 
+Comandos:
+docker build -t python-game-sim .
+docker run --rm python-game-sim
 
 ## Tecnologías:
 
