@@ -24,14 +24,3 @@ El código fuente se encuentra en `GameSimulation.py`.   Para ejecutar la aplica
 
 * Python 
 * Docker 
-
-
-## Contribuciones:
-
-Se agradecen las contribuciones para mejorar la precisión y el realismo de la simulación.  
-
-
-Sources:
-https://github.com/rafarm04/FirstDocker
-
-Powered by MaxAI
